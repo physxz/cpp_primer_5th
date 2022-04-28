@@ -2,9 +2,9 @@
  * @Author: 赵小鑫
  * @Date: 2022-04-27 20:30:57
  * @LastEditors: 赵小鑫
- * @LastEditTime: 2022-04-28 11:58:50
+ * @LastEditTime: 2022-04-28 12:30:58
  * @FilePath: /1_23.cpp
- * @Description: 
+ * @Description: 终端输入 ./1_23 < book_sales
  */
 
 #include <iostream>
